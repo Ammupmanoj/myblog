@@ -1,0 +1,12 @@
+[
+    {
+        "username": "admin",
+        "password": "scrypt:32768:8:1$b6pugmn20k4r50VS$1858980f29c7825e0ef7563cb87c2f09368ede016f84f166a8640d5c42e6f207309af9daed952b4ad761bfaea765c00bb68ecb38c6748d56ed7d41d2b99bfe9d",
+        "email": "admin@example.com"
+    },
+    {
+        "username": "ammu2004",
+        "password": "scrypt:32768:8:1$QhiI98qoOXMBCrrD$771e1b22fe45b8d13ec58a69de3d92cea4d4e3ae1f06c282d25c920f86e8dccd39277bff42b9b3b891d950a768f524e3b2a2d8dd08cdae275a68931bab37b8d4",
+        "email": "pmanojammu9@gmail.com"
+    }
+]

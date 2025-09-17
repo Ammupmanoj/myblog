@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Welcome to My Blog",
+        "content": "This is my first blog post! Welcome to my blog. I created this using Flask and it has been an amazing journey learning web development.",
+        "author": "Admin",
+        "date_posted": "June 20, 2023"
+    },
+    {
+        "id": 2,
+        "title": "Getting Started with Flask",
+        "content": "Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.",
+        "author": "Admin",
+        "date_posted": "June 21, 2023"
+    },
+    {
+        "id": 3,
+        "title": "Mastering Python Projects: From Beginner Scripts to Full-Stack Applications",
+        "content": "Python is one of the most versatile programming languages, suitable for beginners as well as advanced developers. If you want to strengthen your career or portfolio, building Python projects is the most effective way.\r\n\r\nStart Small:\r\n\r\nBasic Calculator\r\n\r\nTo-Do List (Command Line)\r\n\r\nWeather App using APIs\r\n\r\nData Projects:\r\n\r\nData Cleaning with Pandas\r\n\r\nData Visualization using Matplotlib/Seaborn\r\n\r\nMachine Learning Model (e.g., House Price Prediction)\r\n\r\nWeb Development:\r\n\r\nFlask or Streamlit Dashboard\r\n\r\nDjango Blog Platform\r\n\r\nFull-Stack Note-Taking Application\r\n\r\nAdvanced & Real-World:\r\n\r\nReal-time Chat App (Socket.io + MongoDB)\r\n\r\nMusic or Movie Recommendation System\r\n\r\nAI-powered Applications with APIs\r\n\r\nConsistent project building helps you move from beginner to pro. Always showcase your projects on GitHub with proper documentation. This not only improves your portfolio but also makes you stand out in interviews and job applications.",
+        "author": "ammu2004",
+        "date_posted": "September 17, 2025"
+    }
+]
